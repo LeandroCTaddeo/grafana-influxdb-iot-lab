@@ -1,0 +1,10 @@
+.env
+cred.txt
+*.log
+*.backup
+*.db
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
